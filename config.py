@@ -1,4 +1,4 @@
-TOKEN = '7267896935:AAFmrxxbYsnhN12q78QqeTOjovGCrWiBE18'
+TOKEN = '******************************'
 
 # доступные валюты
 keys = {
